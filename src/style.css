@@ -81,8 +81,8 @@ p strong {
 }
 
 .emoji {
-  font-size: 48px;
-  margin-top: 22px;
+  width: 80px;
+  margin-top: 18px;
   margin-left: 10px;
 }
 
